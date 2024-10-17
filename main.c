@@ -19,7 +19,7 @@ printf("\nSequencia de Fibonnaci:\n\n");
 
 //função usando o laço de repetição for
 for(i = 0; i < numerouser; i++){
-
+Sleep(20);
 //
 	auxil = a + b;
 	a = b;
